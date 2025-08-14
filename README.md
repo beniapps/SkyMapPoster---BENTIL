@@ -5,7 +5,6 @@ Elegant, production-ready star map poster editor built with React + TypeScript +
 ## ✨ Features
 - 🌠 **Interactive star map** with `d3-celestial` (UMD)
 - 🖼️ **Poster-ready canvas** (e.g. A2), DPI-aware exports
-- 🧾 **Export**: SVG, PNG (via canvg), PDF (jsPDF + svg2pdf.js)
 - 💾 **Shareable state** in the URL hash (Zustand + LZ-string)
 - 🎛️ **Simple controls** for title, subtitle, meta lines
 - ⚡ **Fast dev** with Vite + TailwindCSS
